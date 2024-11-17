@@ -1,0 +1,1 @@
+Gra  polega na zapamiętywaniu i odtwarzaniu sekwencji kolorów, które są generowane losowo przez komputer. Gracz musi naciskać przyciski odpowiadające kolorom w dokładnej kolejności, w jakiej zostały pokazane. W każdym kolejnym poziomie sekwencja staje się dłuższa, co zwiększa trudność gry. Jeśli gracz popełni błąd, gra kończy się i można zacząć od nowa.
